@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Hangtime" uuid="aa6b0276-9f12-4600-8bc7-f109937948eb">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://thor-prod-db1.kiswe.com:5432/kiswe-thor</jdbc-url>
+    </data-source>
+  </component>
+</project>
